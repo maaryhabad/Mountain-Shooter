@@ -3,11 +3,21 @@ COLOR_YELLOW_DARK = (182, 134, 0)
 COLOR_YELLOW = (255, 202, 22)
 COLOR_BLUE = (73, 213, 255)
 
+ENTITY_SPEED = {
+    'Level1Bg0' : 0,
+    'Level1Bg1' : 1,
+    'Level1Bg2' : 2,
+    'Level1Bg3' : 3,
+    'Level1Bg4' : 4,
+    'Level1Bg5' : 5,
+    'Level1Bg6' : 6,
+}
+
 # M
 MENU_OPTION = ( 'NEW GAME 1P',
                 'NEW GAME 2P - COOPERATIVE',
                 'NEW GAME 2P - COMPETITIVE',
-                'SCORE'
+                'SCORE',
                 'EXIT')
 
 # W
